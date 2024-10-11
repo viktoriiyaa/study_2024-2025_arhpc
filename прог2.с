@@ -1,0 +1,22 @@
+// calculating the surface of area of a rectangle
+#include <stdio.h>
+
+int main()
+{
+  float l,w,h; // length, width and height of rectangle
+  float s;   // area of surface of a rectangle
+  
+  printf("\ncalculating the area of a rectangle\n") ;
+  printf("enter the initial data : \n");
+  printf("Length (см.) -> ");
+  scanf("%f", &l);
+  printf("Width (см.) -> ");
+  scanf("%f", &w) ;
+  printf("Height (см) -> ");
+  scanf("%f", &h) ;
+  s = (l* w + l*h + w*h)*2 ;
+  printf("area of surface of parallelogram: %6.2f sq.cm \n", s) ;
+  
+  printf("\n\nTo finish press <Enter>") ;
+
+  }
