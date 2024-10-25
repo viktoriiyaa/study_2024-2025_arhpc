@@ -105,30 +105,39 @@ header-includes:
 
 # Выполнение лабораторной работы
 1.Выполнение git pull (См Рис 1)
+
 ![git pull (Cм Рис 1)](image/git_pull.png){#fig:001 width=100%}
 git pull (Рис 1)
 
 2. Выполнение make  (См Рис 2)
-![make (Cм Рис 2)](image/make..png){#fig:001 width=100%}
+
+![make (Cм Рис 2)](image/make..png){#fig:002 width=100%}
 make (Рис 2)
 
 3. Удаление файлов (См Рис 3)
-![make_clean (Cм Рис 3)](image/make_clean.png){#fig:001 width=100%}
+
+![make_clean (Cм Рис 3)](image/make_clean.png){#fig:003 width=100%}
 make_clean (Рис 3)
 
 4. Открытие файла report.md (См Рис 4)
-![report.md(Cм Рис 4)](image/report.png){#fig:001 width=100%}
+
+![report.md(Cм Рис 4)](image/report.png){#fig:004 width=100%}
 report.md (Рис 4)
 
 5. Заполнение и компиляция отчета (См Рис 5)
-![комп_отч(Cм Рис 5)](image/комп_отч.png){#fig:001 width=100%}
+
+![комп_отч(Cм Рис 5)](image/комп_отч.png){#fig:005 width=100%}
 комп_отч(Рис 5)
 
 6. Загрузка файлов на гитхаб 
 
-7. Выполнение самостоятельной работы (См Рис 6)
-![report1.md (Cм Рис 6)](image/сам.раб.png){#fig:001 width=100%}
-сам.раб (Рис 6)
+7. Выполнение самостоятельной работы (См Рис 6 и 7)
+
+![сам_раб(Cм Рис 6)](image/самраб.png){#fig:006 width=100%}
+
+![сам_раб(Cм Рис 7)](image/самраб2.png){#fig:007 width=100%}
+
+
 
 
 # Выводы
